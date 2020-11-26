@@ -15,7 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### ⚡ Fun fact: ...
+- I love my dogs
 
 
+### 🤔 Where to find me
 
-[![Twitter](https://img.shields.io/twitter/url/https/twitter.com/TheAustinSonger.svg?style=social&label=Follow%20%40TheAustinsonger)](https://twitter.com/TheAustinSonger) 
+[![Twitter](https://img.shields.io/twitter/url/https/twitter.com/TheAustinSonger.svg?style=social&label=Follow%20%40TheAustinsonger)](https://twitter.com/TheAustinSonger)
+[![Linkedin Badge](https://img.shields.io/badge/-Austin%20Songer-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/austinsonger/)](https://www.linkedin.com/in/austinsonger/)
