@@ -1,4 +1,4 @@
-### About Me
+# About Me
 
 <!--
 **austinsonger/austinsonger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,10 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### ⚡ Fun fact: ...
+### Visit my Youtube channel [Songer Tech](https://www.youtube.com/channel/UCDxDiA921MDyYvhH8KEEzKQ)
+
+# ⚡ Fun fact: ...
 - I love my dogs
 
-### Languages and Tools: 
+# Languages and Tools: 
 
 <p align="left"> 
   <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
