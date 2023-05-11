@@ -26,9 +26,7 @@ Here are some ideas to get you started:
 [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/TheAustinSonger.svg?style=social&label=Follow%20%40TheAustinsonger)](https://twitter.com/TheAustinSonger)
 [![Linkedin Badge](https://img.shields.io/badge/-Austin%20Songer-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/austinsonger/)](https://www.linkedin.com/in/austinsonger/)
 
-<a href="https://open.spotify.com/user/5cw8sj8g0u9hanvj2sgqyd9km">
-  <img align="left" alt="Abhishek's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
-</a>
+
 
 
 
@@ -36,7 +34,7 @@ Here are some ideas to get you started:
 
 ### 📈 My GitHub Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=austinsonger&show_icons=true&theme=gotham" alt="austinsonger" />
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=austinsonger&show_icons=true&theme=gotham" alt="austinsonger" />
 
 
 ## Support ME
