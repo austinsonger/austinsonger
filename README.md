@@ -37,12 +37,9 @@ Here are some ideas to get you started:
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=austinsonger&show_icons=true&theme=gotham" alt="austinsonger" />
 
 
-## Support ME
-  
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/T6T163ESR)
-  
+<a href="https://app.daily.dev/austinsonger"><img src="https://api.daily.dev/devcards/d26a07a941b142d59cdc1db8871c8050.png?r=7ba" width="400" alt="Austin Songer's Dev Card"/></a>
 
-## Sponsors
+
 
 |SPONSORS|
 |---|
